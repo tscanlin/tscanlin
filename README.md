@@ -22,8 +22,6 @@ In my free time I enjoy riding my bike, kayaking, hiking, playing board games, d
 - [lamorindawinegrowers.com](https://lamorindawinegrowers.com/) - Website for the Lamorinda Wine Growers Association
 - [svgsplit.com](https://svgsplit.com/) - Simple tool I created long ago to split icon layers from an SVG
 
-<span hidden style="display: none;">[drscanlin.com](https://drscanlin.com/)</span>
-
 #### *Open source*
 
 - [tocbot](https://github.com/tscanlin/tocbot) - Generate a dynamic table of contents for a webpage
