@@ -23,7 +23,7 @@ In my free time I enjoy riding my bike, kayaking, hiking, playing board games, d
 - [brookviewlandscape.com](https://brookviewlandscape.com/) - Website for a friends landscaping business
 - [lamorindawinegrowers.com](https://lamorindawinegrowers.com/) - Website for the Lamorinda Wine Growers Association
 - [svgsplit.com](https://svgsplit.com/) - Simple tool I created long ago to split icon layers from an SVG
-- [drscanlin.com](https://drscanlin.com/) - My Mom's psycology website from way back
+- [drscanlin.com](https://drscanlin.com/) - My Mom's psychology website from way back
 
 #### *Open source*
 
