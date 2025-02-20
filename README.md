@@ -2,7 +2,7 @@
 
 > I like to build things.
 
-Currently I live in <a href="https://www.google.com/maps/place/Oakland,+CA/" target="_blank">Oakland, CA</a> and work as a senior frontend engineer at <a href="https://www.creditkarma.com/" target="_blank">Credit Karma</a>.
+Currently I live in <a href="https://www.google.com/maps/place/Oakland,+CA/" target="_blank">Oakland, CA</a> and work as a senior frontend engineer in the Bay Area.
 
 I enjoy creating websites and applications using HTML, CSS, and JavaScript in addition to contributing to <a href="https://github.com/tscanlin/" target="_blank">open source projects</a>. Sometimes I also write articles on my <a href="https://blog.timscanlin.net/" target="_blank">blog</a>.
 
